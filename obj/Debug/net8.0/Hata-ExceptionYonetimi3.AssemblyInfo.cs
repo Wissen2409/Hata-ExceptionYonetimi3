@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Hata-ExceptionYonetimi3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8f1c9973098dac21befa9362f21924f96773784")]
 [assembly: System.Reflection.AssemblyProductAttribute("Hata-ExceptionYonetimi3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Hata-ExceptionYonetimi3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
